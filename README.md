@@ -15,7 +15,10 @@ Results
  - The average temperature for June and December was 75 and 71 respectively, only a small difference of four degrees for each month. This suggests consistent surf temperatures regardless of time of year, as the mean is a much better indicator than the minimum or maximum temperature.
  
 
-!["June Temperature Statistics"](Resources/june_temps.png)                                        !["December Temperature Statistics"](Resources/dec_temps.png)
+!["June Temperature Statistics"](Resources/june_temps.png)                                        
+
+
+!["December Temperature Statistics"](Resources/dec_temps.png)
 
 Summary
 
